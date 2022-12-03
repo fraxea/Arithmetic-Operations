@@ -4,6 +4,7 @@
 int main()
 {
 <<<<<<< HEAD
+<<<<<<< HEAD
 	//hola como estas?
 	/*
 	bien grasias
@@ -14,6 +15,11 @@ int main()
 	a -= 10;
 	b += 8;
 	printf("%i\n", a + b);
+=======
+	int a;
+	scanf("%i", &a);
+	printf("%i\n", a);
+>>>>>>> parent of bdb6dd9 (salam in dovomishe)
 =======
 	int a;
 	scanf("%i", &a);
