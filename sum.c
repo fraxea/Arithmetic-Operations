@@ -3,6 +3,8 @@
 
 int main()
 {
-
+	int a;
+	scanf("%i", &a);
+	printf("%i\n", a);
 	return 0;
 }
