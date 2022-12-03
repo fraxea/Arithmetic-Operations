@@ -4,6 +4,9 @@
 int main()
 {
 	//hola como estas?
+	/*
+	bien grasias
+	*/
 	int a, b;
 	scanf("%i %i", &a, &b);
 	a -= 10;
